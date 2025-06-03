@@ -22,7 +22,10 @@
     height: 25rem;
 } */
  .top-section {
-    display: none;
+    background-image: none;
+    background-color: transparent;
+    height: 25rem;
+    padding: 10rem 0;
 }
 
 .top-section h2 {
