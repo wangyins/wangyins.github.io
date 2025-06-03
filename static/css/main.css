@@ -95,7 +95,7 @@ section .main-body{
 
 
 #avatar {
-    margin-top: 6rem; /* 保证不被 fixed-top 导航栏遮挡 */
+    margin-top: 1rem; /* 保证不被 fixed-top 导航栏遮挡 */
     text-align: right; /* 保持右对齐，可改为 left 或 center */
     max-width: 55em;
 }
